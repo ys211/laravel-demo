@@ -2,10 +2,10 @@
 
 namespace Ford\Escape;
 
-class Escape2016
+class MagicDev
 {
     public static function info()
     {
-        echo "This is Ford Escape2016!<br />";
+        echo "This is MagicDev<br />";
     }
 }
