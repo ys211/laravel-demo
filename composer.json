@@ -1,0 +1,21 @@
+{
+    "name": "ys211/laravel-demo",
+    "description": "This a demo for build composer packagist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iswzhd",
+            "email": "iswzhd@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	   "php":">=7.0.0"
+	},
+    "autoload":{
+        "psr-4": {
+            "Ford\\Escape\\": "src/Ford/Escape"
+        }
+    }
+}
